@@ -1,0 +1,6 @@
+E:\Cursos\Curso Padrões de Projeto com C#\Fontes\Parte 51\Interpreter\Interpreter\bin\Debug\Interpreter.exe.config
+E:\Cursos\Curso Padrões de Projeto com C#\Fontes\Parte 51\Interpreter\Interpreter\bin\Debug\Interpreter.exe
+E:\Cursos\Curso Padrões de Projeto com C#\Fontes\Parte 51\Interpreter\Interpreter\bin\Debug\Interpreter.pdb
+E:\Cursos\Curso Padrões de Projeto com C#\Fontes\Parte 51\Interpreter\Interpreter\obj\Debug\Interpreter.csprojResolveAssemblyReference.cache
+E:\Cursos\Curso Padrões de Projeto com C#\Fontes\Parte 51\Interpreter\Interpreter\obj\Debug\Interpreter.exe
+E:\Cursos\Curso Padrões de Projeto com C#\Fontes\Parte 51\Interpreter\Interpreter\obj\Debug\Interpreter.pdb

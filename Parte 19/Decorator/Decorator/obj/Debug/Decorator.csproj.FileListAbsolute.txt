@@ -1,0 +1,5 @@
+C:\Users\Joel\Desktop\Decorator\Decorator\bin\Debug\Decorator.exe
+C:\Users\Joel\Desktop\Decorator\Decorator\bin\Debug\Decorator.pdb
+C:\Users\Joel\Desktop\Decorator\Decorator\obj\Debug\Decorator.csprojResolveAssemblyReference.cache
+C:\Users\Joel\Desktop\Decorator\Decorator\obj\Debug\Decorator.exe
+C:\Users\Joel\Desktop\Decorator\Decorator\obj\Debug\Decorator.pdb

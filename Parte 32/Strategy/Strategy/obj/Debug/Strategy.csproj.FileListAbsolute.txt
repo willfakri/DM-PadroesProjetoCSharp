@@ -1,0 +1,12 @@
+I:\Curso Padrões de Projeto com C#\Fontes\Parte 31\Strategy\Strategy\bin\Debug\Strategy.exe.config
+I:\Curso Padrões de Projeto com C#\Fontes\Parte 31\Strategy\Strategy\bin\Debug\Strategy.exe
+I:\Curso Padrões de Projeto com C#\Fontes\Parte 31\Strategy\Strategy\bin\Debug\Strategy.pdb
+I:\Curso Padrões de Projeto com C#\Fontes\Parte 31\Strategy\Strategy\obj\Debug\Strategy.csprojResolveAssemblyReference.cache
+I:\Curso Padrões de Projeto com C#\Fontes\Parte 31\Strategy\Strategy\obj\Debug\Strategy.exe
+I:\Curso Padrões de Projeto com C#\Fontes\Parte 31\Strategy\Strategy\obj\Debug\Strategy.pdb
+I:\Curso Padrões de Projeto com C#\Fontes\Parte 32\Strategy\Strategy\bin\Debug\Strategy.exe.config
+I:\Curso Padrões de Projeto com C#\Fontes\Parte 32\Strategy\Strategy\obj\Debug\Strategy.exe
+I:\Curso Padrões de Projeto com C#\Fontes\Parte 32\Strategy\Strategy\obj\Debug\Strategy.pdb
+I:\Curso Padrões de Projeto com C#\Fontes\Parte 32\Strategy\Strategy\obj\Debug\Strategy.csprojResolveAssemblyReference.cache
+I:\Curso Padrões de Projeto com C#\Fontes\Parte 32\Strategy\Strategy\bin\Debug\Strategy.exe
+I:\Curso Padrões de Projeto com C#\Fontes\Parte 32\Strategy\Strategy\bin\Debug\Strategy.pdb

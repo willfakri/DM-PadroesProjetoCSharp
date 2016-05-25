@@ -1,0 +1,5 @@
+I:\Prototype\Prototype\bin\Debug\Prototype.exe
+I:\Prototype\Prototype\bin\Debug\Prototype.pdb
+I:\Prototype\Prototype\obj\Debug\Prototype.csprojResolveAssemblyReference.cache
+I:\Prototype\Prototype\obj\Debug\Prototype.exe
+I:\Prototype\Prototype\obj\Debug\Prototype.pdb

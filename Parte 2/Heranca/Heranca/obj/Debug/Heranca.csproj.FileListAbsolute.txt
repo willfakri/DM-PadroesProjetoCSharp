@@ -1,0 +1,7 @@
+H:\Curso Padrões de Projeto com C#\Aula 2\Heranca\Heranca\bin\Debug\Heranca.exe
+H:\Curso Padrões de Projeto com C#\Aula 2\Heranca\Heranca\bin\Debug\Heranca.pdb
+H:\Curso Padrões de Projeto com C#\Aula 2\Heranca\Heranca\obj\Debug\Heranca.csprojResolveAssemblyReference.cache
+H:\Curso Padrões de Projeto com C#\Aula 2\Heranca\Heranca\obj\Debug\Heranca.exe
+H:\Curso Padrões de Projeto com C#\Aula 2\Heranca\Heranca\obj\Debug\Heranca.pdb
+G:\Curso Padrões de Projeto com C#\Fontes\Aula 2\Heranca\Heranca\obj\Debug\Heranca.exe
+G:\Curso Padrões de Projeto com C#\Fontes\Aula 2\Heranca\Heranca\obj\Debug\Heranca.pdb

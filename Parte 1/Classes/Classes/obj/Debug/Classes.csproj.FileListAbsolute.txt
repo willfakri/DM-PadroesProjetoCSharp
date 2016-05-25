@@ -1,0 +1,7 @@
+C:\Users\joel.EXPERTSINFO\Downloads\Curso Padrões de Projeto com C#\Aula 1\Classes\Classes\bin\Debug\Classes.exe
+C:\Users\joel.EXPERTSINFO\Downloads\Curso Padrões de Projeto com C#\Aula 1\Classes\Classes\bin\Debug\Classes.pdb
+C:\Users\joel.EXPERTSINFO\Downloads\Curso Padrões de Projeto com C#\Aula 1\Classes\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+C:\Users\joel.EXPERTSINFO\Downloads\Curso Padrões de Projeto com C#\Aula 1\Classes\Classes\obj\Debug\Classes.exe
+C:\Users\joel.EXPERTSINFO\Downloads\Curso Padrões de Projeto com C#\Aula 1\Classes\Classes\obj\Debug\Classes.pdb
+G:\Curso Padrões de Projeto com C#\Fontes\Aula 1\Classes\Classes\obj\Debug\Classes.exe
+G:\Curso Padrões de Projeto com C#\Fontes\Aula 1\Classes\Classes\obj\Debug\Classes.pdb

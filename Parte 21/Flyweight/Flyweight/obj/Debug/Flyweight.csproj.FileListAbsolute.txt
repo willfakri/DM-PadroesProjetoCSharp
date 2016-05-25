@@ -1,0 +1,6 @@
+G:\Curso Padrões de Projeto com C#\Fontes\Parte 21\Flyweight\Flyweight\bin\Debug\Flyweight.exe.config
+G:\Curso Padrões de Projeto com C#\Fontes\Parte 21\Flyweight\Flyweight\bin\Debug\Flyweight.exe
+G:\Curso Padrões de Projeto com C#\Fontes\Parte 21\Flyweight\Flyweight\bin\Debug\Flyweight.pdb
+G:\Curso Padrões de Projeto com C#\Fontes\Parte 21\Flyweight\Flyweight\obj\Debug\Flyweight.csprojResolveAssemblyReference.cache
+G:\Curso Padrões de Projeto com C#\Fontes\Parte 21\Flyweight\Flyweight\obj\Debug\Flyweight.exe
+G:\Curso Padrões de Projeto com C#\Fontes\Parte 21\Flyweight\Flyweight\obj\Debug\Flyweight.pdb

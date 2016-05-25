@@ -1,0 +1,7 @@
+J:\Curso Padrões de Projeto com C#\Aula5\Abstracao\Abstracao\bin\Debug\Abstracao.exe
+J:\Curso Padrões de Projeto com C#\Aula5\Abstracao\Abstracao\bin\Debug\Abstracao.pdb
+J:\Curso Padrões de Projeto com C#\Aula5\Abstracao\Abstracao\obj\Debug\Abstracao.csprojResolveAssemblyReference.cache
+J:\Curso Padrões de Projeto com C#\Aula5\Abstracao\Abstracao\obj\Debug\Abstracao.exe
+J:\Curso Padrões de Projeto com C#\Aula5\Abstracao\Abstracao\obj\Debug\Abstracao.pdb
+G:\Curso Padrões de Projeto com C#\Fontes\Aula 5\Abstracao\Abstracao\obj\Debug\Abstracao.exe
+G:\Curso Padrões de Projeto com C#\Fontes\Aula 5\Abstracao\Abstracao\obj\Debug\Abstracao.pdb

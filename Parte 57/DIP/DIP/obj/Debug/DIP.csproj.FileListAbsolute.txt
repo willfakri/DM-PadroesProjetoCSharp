@@ -1,0 +1,12 @@
+E:\Cursos\Curso Padrões de Projeto com C#\Fontes\Parte 56\DIP\DIP\bin\Debug\DIP.exe.config
+E:\Cursos\Curso Padrões de Projeto com C#\Fontes\Parte 56\DIP\DIP\bin\Debug\DIP.exe
+E:\Cursos\Curso Padrões de Projeto com C#\Fontes\Parte 56\DIP\DIP\bin\Debug\DIP.pdb
+E:\Cursos\Curso Padrões de Projeto com C#\Fontes\Parte 56\DIP\DIP\obj\Debug\DIP.csprojResolveAssemblyReference.cache
+E:\Cursos\Curso Padrões de Projeto com C#\Fontes\Parte 56\DIP\DIP\obj\Debug\DIP.exe
+E:\Cursos\Curso Padrões de Projeto com C#\Fontes\Parte 56\DIP\DIP\obj\Debug\DIP.pdb
+E:\Cursos\Curso Padrões de Projeto com C#\Fontes\Parte 57\DIP\DIP\bin\Debug\DIP.exe.config
+E:\Cursos\Curso Padrões de Projeto com C#\Fontes\Parte 57\DIP\DIP\obj\Debug\DIP.exe
+E:\Cursos\Curso Padrões de Projeto com C#\Fontes\Parte 57\DIP\DIP\obj\Debug\DIP.pdb
+E:\Cursos\Curso Padrões de Projeto com C#\Fontes\Parte 57\DIP\DIP\bin\Debug\DIP.exe
+E:\Cursos\Curso Padrões de Projeto com C#\Fontes\Parte 57\DIP\DIP\bin\Debug\DIP.pdb
+E:\Cursos\Curso Padrões de Projeto com C#\Fontes\Parte 57\DIP\DIP\obj\Debug\DIP.csprojResolveAssemblyReference.cache

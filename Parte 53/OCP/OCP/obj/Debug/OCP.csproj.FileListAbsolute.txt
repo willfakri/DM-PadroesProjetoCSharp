@@ -1,0 +1,6 @@
+E:\Cursos\Curso Padrões de Projeto com C#\Fontes\Parte 53\OCP\OCP\bin\Debug\OCP.exe.config
+E:\Cursos\Curso Padrões de Projeto com C#\Fontes\Parte 53\OCP\OCP\bin\Debug\OCP.exe
+E:\Cursos\Curso Padrões de Projeto com C#\Fontes\Parte 53\OCP\OCP\bin\Debug\OCP.pdb
+E:\Cursos\Curso Padrões de Projeto com C#\Fontes\Parte 53\OCP\OCP\obj\Debug\OCP.csprojResolveAssemblyReference.cache
+E:\Cursos\Curso Padrões de Projeto com C#\Fontes\Parte 53\OCP\OCP\obj\Debug\OCP.exe
+E:\Cursos\Curso Padrões de Projeto com C#\Fontes\Parte 53\OCP\OCP\obj\Debug\OCP.pdb

@@ -1,0 +1,7 @@
+J:\Curso Padrões de Projeto com C#\Aula 8\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe
+J:\Curso Padrões de Projeto com C#\Aula 8\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.pdb
+J:\Curso Padrões de Projeto com C#\Aula 8\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.csprojResolveAssemblyReference.cache
+J:\Curso Padrões de Projeto com C#\Aula 8\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.exe
+J:\Curso Padrões de Projeto com C#\Aula 8\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.pdb
+G:\Curso Padrões de Projeto com C#\Fontes\Aula 9\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.exe
+G:\Curso Padrões de Projeto com C#\Fontes\Aula 9\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.pdb

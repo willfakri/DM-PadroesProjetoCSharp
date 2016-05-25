@@ -1,0 +1,15 @@
+H:\Curso Padrões de Projeto com C#\Fontes\Parte 40\WpfAppMVVM\WpfAppMVVM\bin\Debug\WpfAppMVVM.exe.config
+H:\Curso Padrões de Projeto com C#\Fontes\Parte 40\WpfAppMVVM\WpfAppMVVM\bin\Debug\WpfAppMVVM.exe
+H:\Curso Padrões de Projeto com C#\Fontes\Parte 40\WpfAppMVVM\WpfAppMVVM\bin\Debug\WpfAppMVVM.pdb
+H:\Curso Padrões de Projeto com C#\Fontes\Parte 40\WpfAppMVVM\WpfAppMVVM\obj\Debug\WpfAppMVVM.csprojResolveAssemblyReference.cache
+H:\Curso Padrões de Projeto com C#\Fontes\Parte 40\WpfAppMVVM\WpfAppMVVM\obj\Debug\MainWindow.baml
+H:\Curso Padrões de Projeto com C#\Fontes\Parte 40\WpfAppMVVM\WpfAppMVVM\obj\Debug\MainWindow.g.cs
+H:\Curso Padrões de Projeto com C#\Fontes\Parte 40\WpfAppMVVM\WpfAppMVVM\obj\Debug\App.g.cs
+H:\Curso Padrões de Projeto com C#\Fontes\Parte 40\WpfAppMVVM\WpfAppMVVM\obj\Debug\WpfAppMVVM_MarkupCompile.cache
+H:\Curso Padrões de Projeto com C#\Fontes\Parte 40\WpfAppMVVM\WpfAppMVVM\obj\Debug\WpfAppMVVM.g.resources
+H:\Curso Padrões de Projeto com C#\Fontes\Parte 40\WpfAppMVVM\WpfAppMVVM\obj\Debug\WpfAppMVVM.Properties.Resources.resources
+H:\Curso Padrões de Projeto com C#\Fontes\Parte 40\WpfAppMVVM\WpfAppMVVM\obj\Debug\WpfAppMVVM.csproj.GenerateResource.Cache
+H:\Curso Padrões de Projeto com C#\Fontes\Parte 40\WpfAppMVVM\WpfAppMVVM\obj\Debug\WpfAppMVVM.exe
+H:\Curso Padrões de Projeto com C#\Fontes\Parte 40\WpfAppMVVM\WpfAppMVVM\obj\Debug\WpfAppMVVM.pdb
+H:\Curso Padrões de Projeto com C#\Fontes\Parte 40\WpfAppMVVM\WpfAppMVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+H:\Curso Padrões de Projeto com C#\Fontes\Parte 40\WpfAppMVVM\WpfAppMVVM\obj\Debug\WpfAppMVVM_MarkupCompile.lref

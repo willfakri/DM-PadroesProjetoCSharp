@@ -1,0 +1,12 @@
+E:\Fontes\Parte 55\ÍSP\ÍSP\bin\Debug\ÍSP.exe.config
+E:\Fontes\Parte 55\ÍSP\ÍSP\bin\Debug\ÍSP.exe
+E:\Fontes\Parte 55\ÍSP\ÍSP\bin\Debug\ÍSP.pdb
+E:\Fontes\Parte 55\ÍSP\ÍSP\obj\Debug\ÍSP.exe
+E:\Fontes\Parte 55\ÍSP\ÍSP\obj\Debug\ÍSP.pdb
+E:\Fontes\Parte 55\ÍSP\ÍSP\obj\Debug\ISP.csprojResolveAssemblyReference.cache
+E:\Fontes\Parte 55\ISP\ÍSP\bin\Debug\ISP.exe.config
+E:\Fontes\Parte 55\ISP\ÍSP\bin\Debug\ISP.exe
+E:\Fontes\Parte 55\ISP\ÍSP\bin\Debug\ISP.pdb
+E:\Fontes\Parte 55\ISP\ÍSP\obj\Debug\ISP.csprojResolveAssemblyReference.cache
+E:\Fontes\Parte 55\ISP\ÍSP\obj\Debug\ISP.exe
+E:\Fontes\Parte 55\ISP\ÍSP\obj\Debug\ISP.pdb

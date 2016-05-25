@@ -1,0 +1,5 @@
+I:\FactoryMethod\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+I:\FactoryMethod\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+I:\FactoryMethod\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+I:\FactoryMethod\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+I:\FactoryMethod\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

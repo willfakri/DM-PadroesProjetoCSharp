@@ -1,0 +1,6 @@
+E:\Fontes\Parte 54\LSP\LSP\bin\Debug\LSP.exe.config
+E:\Fontes\Parte 54\LSP\LSP\bin\Debug\LSP.exe
+E:\Fontes\Parte 54\LSP\LSP\bin\Debug\LSP.pdb
+E:\Fontes\Parte 54\LSP\LSP\obj\Debug\LSP.csprojResolveAssemblyReference.cache
+E:\Fontes\Parte 54\LSP\LSP\obj\Debug\LSP.exe
+E:\Fontes\Parte 54\LSP\LSP\obj\Debug\LSP.pdb

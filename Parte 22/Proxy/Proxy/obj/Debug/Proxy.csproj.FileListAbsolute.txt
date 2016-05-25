@@ -1,0 +1,6 @@
+G:\Curso Padrões de Projeto com C#\Fontes\Parte 22\Proxy\Proxy\bin\Debug\Proxy.exe.config
+G:\Curso Padrões de Projeto com C#\Fontes\Parte 22\Proxy\Proxy\bin\Debug\Proxy.exe
+G:\Curso Padrões de Projeto com C#\Fontes\Parte 22\Proxy\Proxy\bin\Debug\Proxy.pdb
+G:\Curso Padrões de Projeto com C#\Fontes\Parte 22\Proxy\Proxy\obj\Debug\Proxy.csprojResolveAssemblyReference.cache
+G:\Curso Padrões de Projeto com C#\Fontes\Parte 22\Proxy\Proxy\obj\Debug\Proxy.exe
+G:\Curso Padrões de Projeto com C#\Fontes\Parte 22\Proxy\Proxy\obj\Debug\Proxy.pdb

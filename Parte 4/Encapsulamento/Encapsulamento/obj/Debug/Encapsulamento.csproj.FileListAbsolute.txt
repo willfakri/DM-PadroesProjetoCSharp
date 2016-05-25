@@ -1,0 +1,7 @@
+H:\Curso Padrões de Projeto com C#\Aula 4\Encapsulamento\Encapsulamento\bin\Debug\Encapsulamento.exe
+H:\Curso Padrões de Projeto com C#\Aula 4\Encapsulamento\Encapsulamento\bin\Debug\Encapsulamento.pdb
+H:\Curso Padrões de Projeto com C#\Aula 4\Encapsulamento\Encapsulamento\obj\Debug\Encapsulamento.csprojResolveAssemblyReference.cache
+H:\Curso Padrões de Projeto com C#\Aula 4\Encapsulamento\Encapsulamento\obj\Debug\Encapsulamento.exe
+H:\Curso Padrões de Projeto com C#\Aula 4\Encapsulamento\Encapsulamento\obj\Debug\Encapsulamento.pdb
+G:\Curso Padrões de Projeto com C#\Fontes\Aula 4\Encapsulamento\Encapsulamento\obj\Debug\Encapsulamento.exe
+G:\Curso Padrões de Projeto com C#\Fontes\Aula 4\Encapsulamento\Encapsulamento\obj\Debug\Encapsulamento.pdb

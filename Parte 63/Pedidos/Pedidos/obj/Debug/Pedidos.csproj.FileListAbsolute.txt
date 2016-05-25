@@ -1,0 +1,6 @@
+E:\Cursos\Curso Padrões de Projeto com C#\Fontes\Parte 63\Pedidos\Pedidos\bin\Debug\Pedidos.exe.config
+E:\Cursos\Curso Padrões de Projeto com C#\Fontes\Parte 63\Pedidos\Pedidos\bin\Debug\Pedidos.exe
+E:\Cursos\Curso Padrões de Projeto com C#\Fontes\Parte 63\Pedidos\Pedidos\bin\Debug\Pedidos.pdb
+E:\Cursos\Curso Padrões de Projeto com C#\Fontes\Parte 63\Pedidos\Pedidos\obj\Debug\Pedidos.csprojResolveAssemblyReference.cache
+E:\Cursos\Curso Padrões de Projeto com C#\Fontes\Parte 63\Pedidos\Pedidos\obj\Debug\Pedidos.exe
+E:\Cursos\Curso Padrões de Projeto com C#\Fontes\Parte 63\Pedidos\Pedidos\obj\Debug\Pedidos.pdb

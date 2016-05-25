@@ -1,0 +1,6 @@
+G:\Curso Padrões de Projeto com C#\Fontes\Parte 23\ChainOfResponsability\ChainOfResponsability\bin\Debug\ChainOfResponsability.exe.config
+G:\Curso Padrões de Projeto com C#\Fontes\Parte 23\ChainOfResponsability\ChainOfResponsability\obj\Debug\ChainOfResponsability.csprojResolveAssemblyReference.cache
+G:\Curso Padrões de Projeto com C#\Fontes\Parte 23\ChainOfResponsability\ChainOfResponsability\bin\Debug\ChainOfResponsability.exe
+G:\Curso Padrões de Projeto com C#\Fontes\Parte 23\ChainOfResponsability\ChainOfResponsability\bin\Debug\ChainOfResponsability.pdb
+G:\Curso Padrões de Projeto com C#\Fontes\Parte 23\ChainOfResponsability\ChainOfResponsability\obj\Debug\ChainOfResponsability.exe
+G:\Curso Padrões de Projeto com C#\Fontes\Parte 23\ChainOfResponsability\ChainOfResponsability\obj\Debug\ChainOfResponsability.pdb

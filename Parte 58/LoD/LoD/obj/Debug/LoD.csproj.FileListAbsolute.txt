@@ -1,0 +1,6 @@
+E:\Cursos\Curso Padrões de Projeto com C#\Fontes\Parte 58\LoD\LoD\bin\Debug\LoD.exe.config
+E:\Cursos\Curso Padrões de Projeto com C#\Fontes\Parte 58\LoD\LoD\bin\Debug\LoD.exe
+E:\Cursos\Curso Padrões de Projeto com C#\Fontes\Parte 58\LoD\LoD\bin\Debug\LoD.pdb
+E:\Cursos\Curso Padrões de Projeto com C#\Fontes\Parte 58\LoD\LoD\obj\Debug\LoD.csprojResolveAssemblyReference.cache
+E:\Cursos\Curso Padrões de Projeto com C#\Fontes\Parte 58\LoD\LoD\obj\Debug\LoD.exe
+E:\Cursos\Curso Padrões de Projeto com C#\Fontes\Parte 58\LoD\LoD\obj\Debug\LoD.pdb

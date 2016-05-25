@@ -1,0 +1,5 @@
+I:\Curso Padrões de Projeto com C#\Fontes\Parte 27\Memento\Memento\obj\Debug\Memento.csprojResolveAssemblyReference.cache
+I:\Curso Padrões de Projeto com C#\Fontes\Parte 27\Memento\Memento\bin\Debug\Memento.exe
+I:\Curso Padrões de Projeto com C#\Fontes\Parte 27\Memento\Memento\bin\Debug\Memento.pdb
+I:\Curso Padrões de Projeto com C#\Fontes\Parte 27\Memento\Memento\obj\Debug\Memento.exe
+I:\Curso Padrões de Projeto com C#\Fontes\Parte 27\Memento\Memento\obj\Debug\Memento.pdb

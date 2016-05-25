@@ -1,0 +1,6 @@
+I:\Curso Padrões de Projeto com C#\Fontes\Parte 33\TemplateMethod\TemplateMethod\bin\Debug\TemplateMethod.exe.config
+I:\Curso Padrões de Projeto com C#\Fontes\Parte 33\TemplateMethod\TemplateMethod\obj\Debug\TemplateMethod.csprojResolveAssemblyReference.cache
+I:\Curso Padrões de Projeto com C#\Fontes\Parte 33\TemplateMethod\TemplateMethod\bin\Debug\TemplateMethod.exe
+I:\Curso Padrões de Projeto com C#\Fontes\Parte 33\TemplateMethod\TemplateMethod\bin\Debug\TemplateMethod.pdb
+I:\Curso Padrões de Projeto com C#\Fontes\Parte 33\TemplateMethod\TemplateMethod\obj\Debug\TemplateMethod.exe
+I:\Curso Padrões de Projeto com C#\Fontes\Parte 33\TemplateMethod\TemplateMethod\obj\Debug\TemplateMethod.pdb

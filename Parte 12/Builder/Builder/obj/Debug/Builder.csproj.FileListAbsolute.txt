@@ -1,0 +1,10 @@
+J:\Curso Padrões de Projeto com C#\Aula 11\Builder\Builder\bin\Debug\Builder.exe
+J:\Curso Padrões de Projeto com C#\Aula 11\Builder\Builder\bin\Debug\Builder.pdb
+J:\Curso Padrões de Projeto com C#\Aula 11\Builder\Builder\obj\Debug\Builder.csprojResolveAssemblyReference.cache
+J:\Curso Padrões de Projeto com C#\Aula 11\Builder\Builder\obj\Debug\Builder.exe
+J:\Curso Padrões de Projeto com C#\Aula 11\Builder\Builder\obj\Debug\Builder.pdb
+J:\Curso Padrões de Projeto com C#\Aula 12\Builder\Builder\obj\Debug\Builder.exe
+J:\Curso Padrões de Projeto com C#\Aula 12\Builder\Builder\obj\Debug\Builder.pdb
+J:\Curso Padrões de Projeto com C#\Aula 12\Builder\Builder\bin\Debug\Builder.exe
+J:\Curso Padrões de Projeto com C#\Aula 12\Builder\Builder\bin\Debug\Builder.pdb
+J:\Curso Padrões de Projeto com C#\Aula 12\Builder\Builder\obj\Debug\Builder.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+E:\Cursos\Curso Padrões de Projeto com C#\Fontes\Aula 49\ObjectPoolPattern\ObjectPoolPattern\bin\Debug\ObjectPoolPattern.exe.config
+E:\Cursos\Curso Padrões de Projeto com C#\Fontes\Aula 49\ObjectPoolPattern\ObjectPoolPattern\obj\Debug\ObjectPoolPattern.csprojResolveAssemblyReference.cache
+E:\Cursos\Curso Padrões de Projeto com C#\Fontes\Aula 49\ObjectPoolPattern\ObjectPoolPattern\bin\Debug\ObjectPoolPattern.exe
+E:\Cursos\Curso Padrões de Projeto com C#\Fontes\Aula 49\ObjectPoolPattern\ObjectPoolPattern\bin\Debug\ObjectPoolPattern.pdb
+E:\Cursos\Curso Padrões de Projeto com C#\Fontes\Aula 49\ObjectPoolPattern\ObjectPoolPattern\obj\Debug\ObjectPoolPattern.exe
+E:\Cursos\Curso Padrões de Projeto com C#\Fontes\Aula 49\ObjectPoolPattern\ObjectPoolPattern\obj\Debug\ObjectPoolPattern.pdb
+E:\Cursos\Curso Padrões de Projeto com C#\Fontes\Parte 50\ObjectPoolPattern\ObjectPoolPattern\bin\Debug\ObjectPoolPattern.exe.config
+E:\Cursos\Curso Padrões de Projeto com C#\Fontes\Parte 50\ObjectPoolPattern\ObjectPoolPattern\obj\Debug\ObjectPoolPattern.exe
+E:\Cursos\Curso Padrões de Projeto com C#\Fontes\Parte 50\ObjectPoolPattern\ObjectPoolPattern\obj\Debug\ObjectPoolPattern.pdb
+E:\Cursos\Curso Padrões de Projeto com C#\Fontes\Parte 50\ObjectPoolPattern\ObjectPoolPattern\bin\Debug\ObjectPoolPattern.exe
+E:\Cursos\Curso Padrões de Projeto com C#\Fontes\Parte 50\ObjectPoolPattern\ObjectPoolPattern\bin\Debug\ObjectPoolPattern.pdb
+E:\Cursos\Curso Padrões de Projeto com C#\Fontes\Parte 50\ObjectPoolPattern\ObjectPoolPattern\obj\Debug\ObjectPoolPattern.csprojResolveAssemblyReference.cache

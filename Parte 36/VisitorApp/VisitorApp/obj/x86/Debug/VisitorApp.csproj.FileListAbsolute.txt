@@ -1,0 +1,4 @@
+I:\Curso Padrões de Projeto com C#\Fontes\Parte 36\VisitorApp\VisitorApp\bin\Debug\VisitorApp.exe
+I:\Curso Padrões de Projeto com C#\Fontes\Parte 36\VisitorApp\VisitorApp\bin\Debug\VisitorApp.pdb
+I:\Curso Padrões de Projeto com C#\Fontes\Parte 36\VisitorApp\VisitorApp\obj\x86\Debug\VisitorApp.exe
+I:\Curso Padrões de Projeto com C#\Fontes\Parte 36\VisitorApp\VisitorApp\obj\x86\Debug\VisitorApp.pdb

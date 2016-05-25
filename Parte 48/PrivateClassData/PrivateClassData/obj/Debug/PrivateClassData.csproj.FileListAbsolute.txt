@@ -1,0 +1,6 @@
+E:\Cursos\Curso Padrões de Projeto com C#\Fontes\Aula 48\PrivateClassData\PrivateClassData\bin\Debug\PrivateClassData.exe.config
+E:\Cursos\Curso Padrões de Projeto com C#\Fontes\Aula 48\PrivateClassData\PrivateClassData\bin\Debug\PrivateClassData.exe
+E:\Cursos\Curso Padrões de Projeto com C#\Fontes\Aula 48\PrivateClassData\PrivateClassData\bin\Debug\PrivateClassData.pdb
+E:\Cursos\Curso Padrões de Projeto com C#\Fontes\Aula 48\PrivateClassData\PrivateClassData\obj\Debug\PrivateClassData.csprojResolveAssemblyReference.cache
+E:\Cursos\Curso Padrões de Projeto com C#\Fontes\Aula 48\PrivateClassData\PrivateClassData\obj\Debug\PrivateClassData.exe
+E:\Cursos\Curso Padrões de Projeto com C#\Fontes\Aula 48\PrivateClassData\PrivateClassData\obj\Debug\PrivateClassData.pdb

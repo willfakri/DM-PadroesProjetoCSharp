@@ -1,0 +1,6 @@
+E:\Cursos\Curso Padrões de Projeto com C#\Fontes\Parte 60\Hollywood\Hollywood\bin\Debug\Hollywood.exe.config
+E:\Cursos\Curso Padrões de Projeto com C#\Fontes\Parte 60\Hollywood\Hollywood\obj\Debug\Hollywood.csprojResolveAssemblyReference.cache
+E:\Cursos\Curso Padrões de Projeto com C#\Fontes\Parte 60\Hollywood\Hollywood\bin\Debug\Hollywood.exe
+E:\Cursos\Curso Padrões de Projeto com C#\Fontes\Parte 60\Hollywood\Hollywood\bin\Debug\Hollywood.pdb
+E:\Cursos\Curso Padrões de Projeto com C#\Fontes\Parte 60\Hollywood\Hollywood\obj\Debug\Hollywood.exe
+E:\Cursos\Curso Padrões de Projeto com C#\Fontes\Parte 60\Hollywood\Hollywood\obj\Debug\Hollywood.pdb

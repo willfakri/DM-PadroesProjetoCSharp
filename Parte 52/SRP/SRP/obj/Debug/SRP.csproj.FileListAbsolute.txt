@@ -1,0 +1,1 @@
+E:\Cursos\Curso Padrões de Projeto com C#\Fontes\Parte 52\SRP\SRP\bin\Debug\SRP.exe.config

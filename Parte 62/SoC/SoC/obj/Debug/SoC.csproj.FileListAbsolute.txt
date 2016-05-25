@@ -1,0 +1,6 @@
+E:\Cursos\Curso Padrões de Projeto com C#\Fontes\Parte 62\SoC\SoC\bin\Debug\SoC.exe.config
+E:\Cursos\Curso Padrões de Projeto com C#\Fontes\Parte 62\SoC\SoC\bin\Debug\SoC.exe
+E:\Cursos\Curso Padrões de Projeto com C#\Fontes\Parte 62\SoC\SoC\bin\Debug\SoC.pdb
+E:\Cursos\Curso Padrões de Projeto com C#\Fontes\Parte 62\SoC\SoC\obj\Debug\SoC.csprojResolveAssemblyReference.cache
+E:\Cursos\Curso Padrões de Projeto com C#\Fontes\Parte 62\SoC\SoC\obj\Debug\SoC.exe
+E:\Cursos\Curso Padrões de Projeto com C#\Fontes\Parte 62\SoC\SoC\obj\Debug\SoC.pdb

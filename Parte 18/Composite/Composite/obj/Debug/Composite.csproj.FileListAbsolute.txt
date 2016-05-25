@@ -1,0 +1,5 @@
+C:\Users\Joel\Desktop\Composite\Composite\obj\Debug\Composite.csprojResolveAssemblyReference.cache
+C:\Users\Joel\Desktop\Composite\Composite\bin\Debug\Composite.exe
+C:\Users\Joel\Desktop\Composite\Composite\bin\Debug\Composite.pdb
+C:\Users\Joel\Desktop\Composite\Composite\obj\Debug\Composite.exe
+C:\Users\Joel\Desktop\Composite\Composite\obj\Debug\Composite.pdb

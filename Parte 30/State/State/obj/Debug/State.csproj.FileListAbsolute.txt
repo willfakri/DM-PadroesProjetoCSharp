@@ -1,0 +1,6 @@
+I:\Curso Padrões de Projeto com C#\Fontes\Parte 30\State\State\bin\Debug\State.exe.config
+I:\Curso Padrões de Projeto com C#\Fontes\Parte 30\State\State\bin\Debug\State.exe
+I:\Curso Padrões de Projeto com C#\Fontes\Parte 30\State\State\bin\Debug\State.pdb
+I:\Curso Padrões de Projeto com C#\Fontes\Parte 30\State\State\obj\Debug\State.csprojResolveAssemblyReference.cache
+I:\Curso Padrões de Projeto com C#\Fontes\Parte 30\State\State\obj\Debug\State.exe
+I:\Curso Padrões de Projeto com C#\Fontes\Parte 30\State\State\obj\Debug\State.pdb

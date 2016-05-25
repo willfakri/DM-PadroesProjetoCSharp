@@ -1,0 +1,5 @@
+I:\Curso Padrões de Projeto com C#\Fontes\Parte 25\Iterator\Iterator\bin\Debug\Iterator.exe
+I:\Curso Padrões de Projeto com C#\Fontes\Parte 25\Iterator\Iterator\bin\Debug\Iterator.pdb
+I:\Curso Padrões de Projeto com C#\Fontes\Parte 25\Iterator\Iterator\obj\Debug\Iterator.csprojResolveAssemblyReference.cache
+I:\Curso Padrões de Projeto com C#\Fontes\Parte 25\Iterator\Iterator\obj\Debug\Iterator.exe
+I:\Curso Padrões de Projeto com C#\Fontes\Parte 25\Iterator\Iterator\obj\Debug\Iterator.pdb

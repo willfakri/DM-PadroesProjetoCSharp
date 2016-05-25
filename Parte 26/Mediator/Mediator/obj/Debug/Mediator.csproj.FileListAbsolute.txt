@@ -1,0 +1,5 @@
+I:\Curso Padrões de Projeto com C#\Fontes\Parte 26\Mediator\Mediator\bin\Debug\Mediator.exe
+I:\Curso Padrões de Projeto com C#\Fontes\Parte 26\Mediator\Mediator\bin\Debug\Mediator.pdb
+I:\Curso Padrões de Projeto com C#\Fontes\Parte 26\Mediator\Mediator\obj\Debug\Mediator.csprojResolveAssemblyReference.cache
+I:\Curso Padrões de Projeto com C#\Fontes\Parte 26\Mediator\Mediator\obj\Debug\Mediator.exe
+I:\Curso Padrões de Projeto com C#\Fontes\Parte 26\Mediator\Mediator\obj\Debug\Mediator.pdb

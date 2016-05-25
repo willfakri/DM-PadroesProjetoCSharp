@@ -1,0 +1,5 @@
+G:\Curso Padrões de Projeto com C#\Fontes\Parte 24\Command\Command\obj\Debug\Command.csprojResolveAssemblyReference.cache
+G:\Curso Padrões de Projeto com C#\Fontes\Parte 24\Command\Command\bin\Debug\Command.exe
+G:\Curso Padrões de Projeto com C#\Fontes\Parte 24\Command\Command\bin\Debug\Command.pdb
+G:\Curso Padrões de Projeto com C#\Fontes\Parte 24\Command\Command\obj\Debug\Command.exe
+G:\Curso Padrões de Projeto com C#\Fontes\Parte 24\Command\Command\obj\Debug\Command.pdb
