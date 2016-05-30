@@ -4,3 +4,8 @@ H:\Curso Padrões de Projeto com C#\Aula 3\Polimorfismo\Polimorfismo\obj\Debug\P
 H:\Curso Padrões de Projeto com C#\Aula 3\Polimorfismo\Polimorfismo\obj\Debug\Polimorfismo.pdb
 G:\Curso Padrões de Projeto com C#\Fontes\Aula 3\Polimorfismo\Polimorfismo\obj\Debug\Polimorfismo.exe
 G:\Curso Padrões de Projeto com C#\Fontes\Aula 3\Polimorfismo\Polimorfismo\obj\Debug\Polimorfismo.pdb
+E:\Estudo\CSharp\DM-PadrõesProjetoCSharp\Fontes\Parte 3\Polimorfismo\Polimorfismo\obj\Debug\Polimorfismo.exe
+E:\Estudo\CSharp\DM-PadrõesProjetoCSharp\Fontes\Parte 3\Polimorfismo\Polimorfismo\obj\Debug\Polimorfismo.pdb
+E:\Estudo\CSharp\DM-PadrõesProjetoCSharp\Fontes\Parte 3\Polimorfismo\Polimorfismo\bin\Debug\Polimorfismo.exe
+E:\Estudo\CSharp\DM-PadrõesProjetoCSharp\Fontes\Parte 3\Polimorfismo\Polimorfismo\bin\Debug\Polimorfismo.pdb
+E:\Estudo\CSharp\DM-PadrõesProjetoCSharp\Fontes\Parte 3\Polimorfismo\Polimorfismo\obj\Debug\Polimorfismo.csprojResolveAssemblyReference.cache

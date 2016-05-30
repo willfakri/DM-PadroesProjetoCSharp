@@ -5,3 +5,5 @@ C:\Users\joel.EXPERTSINFO\Downloads\Curso Padrões de Projeto com C#\Aula 1\Clas
 C:\Users\joel.EXPERTSINFO\Downloads\Curso Padrões de Projeto com C#\Aula 1\Classes\Classes\obj\Debug\Classes.pdb
 G:\Curso Padrões de Projeto com C#\Fontes\Aula 1\Classes\Classes\obj\Debug\Classes.exe
 G:\Curso Padrões de Projeto com C#\Fontes\Aula 1\Classes\Classes\obj\Debug\Classes.pdb
+E:\Estudo\CSharp\DM-PadrõesProjetoCSharp\Fontes\Parte 1\Classes\Classes\obj\Debug\Classes.exe
+E:\Estudo\CSharp\DM-PadrõesProjetoCSharp\Fontes\Parte 1\Classes\Classes\obj\Debug\Classes.pdb

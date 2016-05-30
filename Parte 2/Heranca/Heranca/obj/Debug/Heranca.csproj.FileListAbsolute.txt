@@ -5,3 +5,5 @@ H:\Curso Padrões de Projeto com C#\Aula 2\Heranca\Heranca\obj\Debug\Heranca.exe
 H:\Curso Padrões de Projeto com C#\Aula 2\Heranca\Heranca\obj\Debug\Heranca.pdb
 G:\Curso Padrões de Projeto com C#\Fontes\Aula 2\Heranca\Heranca\obj\Debug\Heranca.exe
 G:\Curso Padrões de Projeto com C#\Fontes\Aula 2\Heranca\Heranca\obj\Debug\Heranca.pdb
+E:\Estudo\CSharp\DM-PadrõesProjetoCSharp\Fontes\Parte 2\Heranca\Heranca\obj\Debug\Heranca.exe
+E:\Estudo\CSharp\DM-PadrõesProjetoCSharp\Fontes\Parte 2\Heranca\Heranca\obj\Debug\Heranca.pdb
