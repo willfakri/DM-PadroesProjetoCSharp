@@ -5,3 +5,8 @@ J:\Curso Padrões de Projeto com C#\Aula 7\Delegacao\Delegacao\obj\Debug\Delegac
 J:\Curso Padrões de Projeto com C#\Aula 7\Delegacao\Delegacao\obj\Debug\Delegacao.pdb
 G:\Curso Padrões de Projeto com C#\Fontes\Aula 7\Delegacao\Delegacao\obj\Debug\Delegacao.exe
 G:\Curso Padrões de Projeto com C#\Fontes\Aula 7\Delegacao\Delegacao\obj\Debug\Delegacao.pdb
+E:\Estudo\CSharp\DM-PadrõesProjetoCSharp\Fontes\Parte 7\Delegacao\Delegacao\obj\Debug\Delegacao.exe
+E:\Estudo\CSharp\DM-PadrõesProjetoCSharp\Fontes\Parte 7\Delegacao\Delegacao\obj\Debug\Delegacao.pdb
+E:\Estudo\CSharp\DM-PadrõesProjetoCSharp\Fontes\Parte 7\Delegacao\Delegacao\bin\Debug\Delegacao.exe
+E:\Estudo\CSharp\DM-PadrõesProjetoCSharp\Fontes\Parte 7\Delegacao\Delegacao\bin\Debug\Delegacao.pdb
+E:\Estudo\CSharp\DM-PadrõesProjetoCSharp\Fontes\Parte 7\Delegacao\Delegacao\obj\Debug\Delegacao.csprojResolveAssemblyReference.cache

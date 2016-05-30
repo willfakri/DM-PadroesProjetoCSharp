@@ -1,0 +1,6 @@
+E:\Estudo\CSharp\DM-PadrõesProjetoCSharp\Fontes\Parte 7\Delegacao\DelegacaoTreino\bin\Debug\DelegacaoTreino.exe.config
+E:\Estudo\CSharp\DM-PadrõesProjetoCSharp\Fontes\Parte 7\Delegacao\DelegacaoTreino\bin\Debug\DelegacaoTreino.exe
+E:\Estudo\CSharp\DM-PadrõesProjetoCSharp\Fontes\Parte 7\Delegacao\DelegacaoTreino\bin\Debug\DelegacaoTreino.pdb
+E:\Estudo\CSharp\DM-PadrõesProjetoCSharp\Fontes\Parte 7\Delegacao\DelegacaoTreino\obj\Debug\DelegacaoTreino.csprojResolveAssemblyReference.cache
+E:\Estudo\CSharp\DM-PadrõesProjetoCSharp\Fontes\Parte 7\Delegacao\DelegacaoTreino\obj\Debug\DelegacaoTreino.exe
+E:\Estudo\CSharp\DM-PadrõesProjetoCSharp\Fontes\Parte 7\Delegacao\DelegacaoTreino\obj\Debug\DelegacaoTreino.pdb
