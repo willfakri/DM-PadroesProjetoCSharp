@@ -1,7 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{06768D68-EB6B-42A8-83A2-95ADEFE01CB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfacesTreino", "InterfacesTreino\InterfacesTreino.csproj", "{B1CBE8B3-DB03-4FB8-A3F1-72F60E870E52}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,6 +17,10 @@ Global
 		{06768D68-EB6B-42A8-83A2-95ADEFE01CB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{06768D68-EB6B-42A8-83A2-95ADEFE01CB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{06768D68-EB6B-42A8-83A2-95ADEFE01CB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1CBE8B3-DB03-4FB8-A3F1-72F60E870E52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1CBE8B3-DB03-4FB8-A3F1-72F60E870E52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1CBE8B3-DB03-4FB8-A3F1-72F60E870E52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1CBE8B3-DB03-4FB8-A3F1-72F60E870E52}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

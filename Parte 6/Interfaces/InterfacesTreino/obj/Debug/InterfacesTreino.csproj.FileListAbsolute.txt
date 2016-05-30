@@ -1,0 +1,6 @@
+E:\Estudo\CSharp\DM-PadrõesProjetoCSharp\Fontes\Parte 6\Interfaces\InterfacesTreino\bin\Debug\InterfacesTreino.exe.config
+E:\Estudo\CSharp\DM-PadrõesProjetoCSharp\Fontes\Parte 6\Interfaces\InterfacesTreino\bin\Debug\InterfacesTreino.exe
+E:\Estudo\CSharp\DM-PadrõesProjetoCSharp\Fontes\Parte 6\Interfaces\InterfacesTreino\bin\Debug\InterfacesTreino.pdb
+E:\Estudo\CSharp\DM-PadrõesProjetoCSharp\Fontes\Parte 6\Interfaces\InterfacesTreino\obj\Debug\InterfacesTreino.csprojResolveAssemblyReference.cache
+E:\Estudo\CSharp\DM-PadrõesProjetoCSharp\Fontes\Parte 6\Interfaces\InterfacesTreino\obj\Debug\InterfacesTreino.exe
+E:\Estudo\CSharp\DM-PadrõesProjetoCSharp\Fontes\Parte 6\Interfaces\InterfacesTreino\obj\Debug\InterfacesTreino.pdb

@@ -5,3 +5,8 @@ J:\Curso Padrões de Projeto com C#\Aula 6\Interfaces\Interfaces\obj\Debug\Inter
 J:\Curso Padrões de Projeto com C#\Aula 6\Interfaces\Interfaces\obj\Debug\Interfaces.pdb
 G:\Curso Padrões de Projeto com C#\Fontes\Aula 6\Interfaces\Interfaces\obj\Debug\Interfaces.exe
 G:\Curso Padrões de Projeto com C#\Fontes\Aula 6\Interfaces\Interfaces\obj\Debug\Interfaces.pdb
+E:\Estudo\CSharp\DM-PadrõesProjetoCSharp\Fontes\Parte 6\Interfaces\Interfaces\obj\Debug\Interfaces.exe
+E:\Estudo\CSharp\DM-PadrõesProjetoCSharp\Fontes\Parte 6\Interfaces\Interfaces\obj\Debug\Interfaces.pdb
+E:\Estudo\CSharp\DM-PadrõesProjetoCSharp\Fontes\Parte 6\Interfaces\Interfaces\bin\Debug\Interfaces.exe
+E:\Estudo\CSharp\DM-PadrõesProjetoCSharp\Fontes\Parte 6\Interfaces\Interfaces\bin\Debug\Interfaces.pdb
+E:\Estudo\CSharp\DM-PadrõesProjetoCSharp\Fontes\Parte 6\Interfaces\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
