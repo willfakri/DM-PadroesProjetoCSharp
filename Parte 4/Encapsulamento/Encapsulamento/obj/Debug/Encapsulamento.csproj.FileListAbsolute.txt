@@ -5,3 +5,5 @@ H:\Curso Padrões de Projeto com C#\Aula 4\Encapsulamento\Encapsulamento\obj\Deb
 H:\Curso Padrões de Projeto com C#\Aula 4\Encapsulamento\Encapsulamento\obj\Debug\Encapsulamento.pdb
 G:\Curso Padrões de Projeto com C#\Fontes\Aula 4\Encapsulamento\Encapsulamento\obj\Debug\Encapsulamento.exe
 G:\Curso Padrões de Projeto com C#\Fontes\Aula 4\Encapsulamento\Encapsulamento\obj\Debug\Encapsulamento.pdb
+E:\Estudo\CSharp\DM-PadrõesProjetoCSharp\Fontes\Parte 4\Encapsulamento\Encapsulamento\obj\Debug\Encapsulamento.exe
+E:\Estudo\CSharp\DM-PadrõesProjetoCSharp\Fontes\Parte 4\Encapsulamento\Encapsulamento\obj\Debug\Encapsulamento.pdb

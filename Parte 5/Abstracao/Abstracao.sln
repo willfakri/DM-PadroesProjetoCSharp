@@ -1,7 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstracao", "Abstracao\Abstracao.csproj", "{C49A6980-2BFF-4736-BD11-14DB8FF25D1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstracaoTreino", "AbstracaoTreino\AbstracaoTreino.csproj", "{1AB52A3F-77B2-4A83-BB40-AF3FE1A8450F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,6 +17,10 @@ Global
 		{C49A6980-2BFF-4736-BD11-14DB8FF25D1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C49A6980-2BFF-4736-BD11-14DB8FF25D1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C49A6980-2BFF-4736-BD11-14DB8FF25D1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AB52A3F-77B2-4A83-BB40-AF3FE1A8450F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AB52A3F-77B2-4A83-BB40-AF3FE1A8450F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AB52A3F-77B2-4A83-BB40-AF3FE1A8450F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AB52A3F-77B2-4A83-BB40-AF3FE1A8450F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

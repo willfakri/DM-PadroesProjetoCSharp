@@ -1,0 +1,6 @@
+E:\Estudo\CSharp\DM-PadrõesProjetoCSharp\Fontes\Parte 5\Abstracao\AbstracaoTreino\bin\Debug\AbstracaoTreino.exe.config
+E:\Estudo\CSharp\DM-PadrõesProjetoCSharp\Fontes\Parte 5\Abstracao\AbstracaoTreino\bin\Debug\AbstracaoTreino.exe
+E:\Estudo\CSharp\DM-PadrõesProjetoCSharp\Fontes\Parte 5\Abstracao\AbstracaoTreino\bin\Debug\AbstracaoTreino.pdb
+E:\Estudo\CSharp\DM-PadrõesProjetoCSharp\Fontes\Parte 5\Abstracao\AbstracaoTreino\obj\Debug\AbstracaoTreino.csprojResolveAssemblyReference.cache
+E:\Estudo\CSharp\DM-PadrõesProjetoCSharp\Fontes\Parte 5\Abstracao\AbstracaoTreino\obj\Debug\AbstracaoTreino.exe
+E:\Estudo\CSharp\DM-PadrõesProjetoCSharp\Fontes\Parte 5\Abstracao\AbstracaoTreino\obj\Debug\AbstracaoTreino.pdb
