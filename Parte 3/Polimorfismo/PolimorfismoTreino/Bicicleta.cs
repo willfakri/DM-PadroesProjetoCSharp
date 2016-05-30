@@ -6,14 +6,13 @@ using System.Threading.Tasks;
 
 namespace PolimorfismoTreino
 {
-    public class Bicicleta
-    {
-        public string Marca { get; set; }
+    public class Bicicleta : MeioTransporte
+    {        
         public int QuantidadeMarchas { get; set; }
 
-        public void Mover()
+        public override void Mover()
         {
-            Console.WriteLine(string.Concat(Marca, " de ",QuantidadeMarchas, " marchas está andando."));
+            Console.WriteLine(string.Concat(Modelo, " de ",QuantidadeMarchas, " marchas está andando."));
         }
     }
 }

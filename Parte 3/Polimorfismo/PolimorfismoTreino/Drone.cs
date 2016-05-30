@@ -6,11 +6,10 @@ using System.Threading.Tasks;
 
 namespace PolimorfismoTreino
 {
-    public class Drone
-    {
-        public string Modelo { get; set; }
+    public class Drone : MeioTransporte
+    {       
         public int QuantidadeHelices { get; set; }
-        public void Mover()
+        public override void Mover()
         {
             Console.WriteLine(string.Concat(Modelo + " de " + QuantidadeHelices + " hélices está voando."));
         }

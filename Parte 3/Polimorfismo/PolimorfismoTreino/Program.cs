@@ -10,13 +10,13 @@ namespace PolimorfismoTreino
     {
         static void Main(string[] args)
         {
-            Barco barco = new Barco { Modelo = "Barco Maroto" };
+            MeioTransporte barco = new Barco { Modelo = "Barco Maroto" };
             barco.Mover();
 
-            Bicicleta bicicleta = new Bicicleta() { Marca = "Caloi", QuantidadeMarchas = 18 };
+            MeioTransporte bicicleta = new Bicicleta() { Modelo = "Caloi Master Plus", QuantidadeMarchas = 18 };
             bicicleta.Mover();
 
-            Drone drone = new Drone() { Modelo="Drone militar", QuantidadeHelices=4 };
+            MeioTransporte drone = new Drone() { Modelo="Drone militar", QuantidadeHelices=4 };
             drone.Mover();
 
             Console.ReadKey();

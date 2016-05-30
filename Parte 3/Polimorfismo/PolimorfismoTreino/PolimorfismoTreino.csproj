@@ -46,6 +46,7 @@
     <Compile Include="Barco.cs" />
     <Compile Include="Bicicleta.cs" />
     <Compile Include="Drone.cs" />
+    <Compile Include="MeioTransporte.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -6,11 +6,12 @@ using System.Threading.Tasks;
 
 namespace PolimorfismoTreino
 {
-    public class Barco : MeioTransporte
+    public class MeioTransporte
     {
-        public override void Mover()
+        public string Modelo { get; set; }
+        public virtual void Mover()
         {
-            Console.WriteLine(Modelo + " está navegando.");
+
         }
     }
 }
